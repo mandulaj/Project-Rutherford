@@ -416,7 +416,7 @@
 	<rect x="355.74316" y="294.9502" fill="none" width="39.05078" height="14.50098"/>
 	<text transform="matrix(1 0 0 1 365.50439 307.73047)" font-family="'MyriadPro-Regular'" font-size="18">Os</text>
 	<rect x="355.5874" y="312.37695" fill="none" width="39.36182" height="6.42188"/>
-	<text transform="matrix(1 0 0 1 360.646 317.34766)" font-family="'MyriadPro-Regular'" font-size="7">Hydrogen</text>
+	<text transform="matrix(1 0 0 1 362.88574 317.34766)" font-family="'MyriadPro-Regular'" font-size="7">Osmium</text>
 	<rect x="355.5874" y="285.96289" fill="none" width="39.36182" height="6.42188"/>
 	<text transform="matrix(1 0 0 1 371.16504 291.64355)" font-family="'MyriadPro-Regular'" font-size="8">76</text>
 	<rect x="355.5874" y="321.80273" fill="none" width="39.36182" height="6.42383"/>
@@ -448,7 +448,7 @@
 	<rect x="395.10498" y="294.9502" fill="none" width="39.05127" height="14.50098"/>
 	<text transform="matrix(1 0 0 1 409.5376 307.73047)" font-family="'MyriadPro-Regular'" font-size="18">Ir</text>
 	<rect x="394.94922" y="312.37695" fill="none" width="39.36133" height="6.42188"/>
-	<text transform="matrix(1 0 0 1 400.00781 317.34766)" font-family="'MyriadPro-Regular'" font-size="7">Hydrogen</text>
+	<text transform="matrix(1 0 0 1 404.19043 317.34766)" font-family="'MyriadPro-Regular'" font-size="7">Iridium</text>
 	<rect x="394.94922" y="285.96289" fill="none" width="39.36133" height="6.42188"/>
 	<text transform="matrix(1 0 0 1 410.52686 291.64355)" font-family="'MyriadPro-Regular'" font-size="8">77</text>
 	<rect x="394.94922" y="321.80273" fill="none" width="39.36133" height="6.42383"/>
@@ -480,7 +480,7 @@
 	<rect x="434.31055" y="294.9502" fill="none" width="39.05078" height="14.50098"/>
 	<text transform="matrix(1 0 0 1 446.07031 307.73047)" font-family="'MyriadPro-Regular'" font-size="18">Pt</text>
 	<rect x="434.15527" y="312.37695" fill="none" width="39.3623" height="6.42188"/>
-	<text transform="matrix(1 0 0 1 439.21387 317.34766)" font-family="'MyriadPro-Regular'" font-size="7">Hydrogen</text>
+	<text transform="matrix(1 0 0 1 440.69434 317.34766)" font-family="'MyriadPro-Regular'" font-size="7">Platinum</text>
 	<rect x="434.15527" y="285.96289" fill="none" width="39.3623" height="6.42188"/>
 	<text transform="matrix(1 0 0 1 449.73242 291.64355)" font-family="'MyriadPro-Regular'" font-size="8">78</text>
 	<rect x="434.15527" y="321.80273" fill="none" width="39.3623" height="6.42383"/>
@@ -510,9 +510,9 @@
 	<rect x="473.36133" y="274.67285" fill="none" width="39.3623" height="6.42188"/>
 	<text transform="matrix(1 0 0 1 479.90332 280.35352)" font-family="'MyriadPro-Regular'" font-size="8">107.868</text>
 	<rect x="473.51758" y="294.9502" fill="none" width="39.0498" height="14.50098"/>
-	<text transform="matrix(1 0 0 1 482.50391 307.73047)" font-family="'MyriadPro-Regular'" font-size="18">Ag</text>
+	<text transform="matrix(1 0 0 1 482.57617 307.73047)" font-family="'MyriadPro-Regular'" font-size="18">Au</text>
 	<rect x="473.36133" y="312.37695" fill="none" width="39.3623" height="6.42188"/>
-	<text transform="matrix(1 0 0 1 478.41992 317.34766)" font-family="'MyriadPro-Regular'" font-size="7">Hydrogen</text>
+	<text transform="matrix(1 0 0 1 486.06055 317.34766)" font-family="'MyriadPro-Regular'" font-size="7">Gold</text>
 	<rect x="473.36133" y="285.96289" fill="none" width="39.3623" height="6.42188"/>
 	<text transform="matrix(1 0 0 1 488.93945 291.64355)" font-family="'MyriadPro-Regular'" font-size="8">79</text>
 	<rect x="473.36133" y="321.80273" fill="none" width="39.3623" height="6.42383"/>
@@ -544,7 +544,7 @@
 	<rect x="512.72363" y="294.9502" fill="none" width="39.0498" height="14.50098"/>
 	<text transform="matrix(1 0 0 1 521.35059 307.73047)" font-family="'MyriadPro-Regular'" font-size="18">Hg</text>
 	<rect x="512.56738" y="312.37695" fill="none" width="39.3623" height="6.42188"/>
-	<text transform="matrix(1 0 0 1 517.62598 317.34766)" font-family="'MyriadPro-Regular'" font-size="7">Hydrogen</text>
+	<text transform="matrix(1 0 0 1 520.24805 317.34766)" font-family="'MyriadPro-Regular'" font-size="7">Mercury</text>
 	<rect x="512.56738" y="285.96289" fill="none" width="39.3623" height="6.42188"/>
 	<text transform="matrix(1 0 0 1 528.14453 291.64355)" font-family="'MyriadPro-Regular'" font-size="8">80</text>
 	<rect x="512.56738" y="321.80273" fill="none" width="39.3623" height="6.42383"/>
